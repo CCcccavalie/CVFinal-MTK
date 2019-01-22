@@ -8,6 +8,6 @@ I modified the work of [this](https://github.com/zyf12389/GC-Net), with only tra
 
 #### Report
 
-You can find our work and results in the R for more detail.
+You can find our work and results in the Report.pdf for more detail.
 
 
