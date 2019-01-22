@@ -8,11 +8,6 @@ I modified the work of [this](https://github.com/zyf12389/GC-Net), with only tra
 
 #### Report
 
-You can find our work and results in the report for more detail.
+You can find our work and results in the R for more detail.
 
-#### Some of the testing data
-
-The part of mine(GCnet) which is darker is due to the other method to visualize.
-
-![1548163664220](C:\Users\fjord\AppData\Roaming\Typora\typora-user-images\1548163664220.png)
 
