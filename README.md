@@ -10,4 +10,4 @@ I modified the work of [this](https://github.com/zyf12389/GC-Net), with only tra
 
 You can find our work and results in the Report.pdf for more detail.
 
-
+![alt text](https://raw.githubusercontent.com/fjordyo0707/CVFinal-MTK/master/doc/pic.PNG)
